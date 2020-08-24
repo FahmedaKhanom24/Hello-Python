@@ -1,1 +1,5 @@
-# Hello-Python
+input("Please enter your name: ")
+age = int(input ("Please enter your age: "))
+Current_year= int(input("Enter the current year: "))
+year = str((Current_year-age)+100)
+print( "You will be 100 years old in the year "+ year)
